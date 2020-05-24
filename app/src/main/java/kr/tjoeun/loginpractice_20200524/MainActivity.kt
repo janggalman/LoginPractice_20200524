@@ -16,8 +16,8 @@ class MainActivity : AppCompatActivity() {
             val inputId = idEdt.text.toString()
             val inputPw = pwEdt.text.toString()
 
-//            Log.d("입력아이디" , inputId)
-//            Log.d("입력비번", inputPw)
+            Log.d("입력아이디" , inputId)
+            Log.d("입력비번", inputPw)
 
         }
 
